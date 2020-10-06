@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIANA EKA FADIAH</title>
+    <style> 
+        body{ 
+        background-image:url(gambar.jpg); 
+        background-size:cover; 
+        background-attachment: fixed; } 
+        p{ color:white; } 
+        p{color:red;}
+        h2{color:rgb(0, 0, 0);}
+        .element1{color:rgb(224, 36, 36);
+        background-color: rgb(245, 226, 153);}
+        a:hover{color: yellow;}
+        </style>
+</head>
+<body>
+    <font color="#000000"></font>
+    <table border="5" cellpadding="10" cellspacing="5" style="background-color: yellowgreen;">
+        <thead>
+            <tr>
+                <th></th>
+                <th>KLIK TULISAN KUNING!</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>BIODATA</th>
+                    <td><a href="http://www.instagram.com/dejavu.nation" target="_blank >CACTH ME ON FACEBOOK HERE!</a></td>
+        </tbody>
+
+
+
+
+
+    </table>
+    <p class="element1"><b>Nama  : </b>Diana Eka Fadiah</p>
+    <p class="element1"><b>NIM   : </b>102190051</p>
+    <p class="element1"><b>TTL   : </b>02 April 2002</p>
+    <p class="element1"><b>Makul : </b>WEB Design</p>
+</body>
+</html>
