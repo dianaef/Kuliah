@@ -45,15 +45,14 @@ header ul li a:hover {
 
 .headerutama{
     width: 100%;
-	height:600px ;
-	background-color: whitesmoke;
-    background-size: 100px 0 500px;
+    height:600px ;
+    background-color: whitesmoke;
     background: url("gambar1.jpg");
-	background-repeat: no-repeat;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     box-shadow: 0px 0px 30px rgba(0,0,0,0.25);
     border-radius: 27px;
@@ -66,15 +65,15 @@ header ul li a:hover {
 }
 .headerutama h1{
     font-size: 80px;
-	 	color: rgb(126, 222, 243);
-	 	margin: 10px;
+    color: rgb(126, 222, 243);
+    margin: 10px;
 }
 .headerutama p{
     font-size: 25px;
-	 	color: white;
-         margin: 10px;
-         outline-style: 3px;
-         outline: tomato;
+    color: white;
+    margin: 10px;
+    outline-style: 3px;
+    outline: tomato;
 }
 
 .headerutama button{
@@ -97,7 +96,7 @@ header ul li a:hover {
 }
 
 .konten form{
-background-color: cadetblue;
+    background-color: cadetblue;
 }
 .konten label{
     display: flex;
@@ -118,8 +117,8 @@ background-color: cadetblue;
 }
 
 .konten form button{
-    font-size: 20px;
-	 	border: none;
+                font-size: 20px;
+	        border: none;
 	 	width: 7%;
 	 	height: 40px;
 	 	padding: 5px;
